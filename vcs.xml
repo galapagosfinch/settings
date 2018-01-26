@@ -26,6 +26,10 @@
           <option name="url" value="ssh://git@git.onetrust.com:7999/do/terraform.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@git.onetrust.com:7999/do/chef-repo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects" />
